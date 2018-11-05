@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">मेरे शौक</string>
+    <string name="hobbies">शौक</string>
+    <string name="title">शीर्षक</string>
+    <string name="welcome">स्वागत हे</string>
+    <string name="my_name">मनीष कुमार</string>
+    <string name="my_hobby_is">मेरा शौक है</string>
+    <string name="please_select_app">कृपया ऐप का चयन करें</string>
+    <string name="is_clicked">क्लिक किया गया है!</string>
+</resources>

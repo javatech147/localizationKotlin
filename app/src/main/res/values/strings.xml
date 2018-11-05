@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinFirst</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="title">Title</string>
+    <string name="welcome">Welcome</string>
+    <string name="my_name">Manish Kumar</string>
+    <string name="my_hobby_is">My hobby is</string>
+    <string name="please_select_app">Please select app</string>
+    <string name="is_clicked">is clicked!</string>
+</resources>
